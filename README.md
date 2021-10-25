@@ -1,3 +1,6 @@
+![BMI 1](https://user-images.githubusercontent.com/92082198/138643500-84862aad-d15c-4b1a-9491-e79cf74a8f8a.jpg)
+![BMI 2](https://user-images.githubusercontent.com/92082198/138643509-c1115736-a476-4749-8e9c-334c6d76dbe4.jpg)
+![BMI 3](https://user-images.githubusercontent.com/92082198/138643534-e2bb741b-8a4c-4f7d-939a-1dfd70d24461.jpg)
 EON studio is presenting you a healthy app BMI & BMR calculator : Weight loss diet plan . 
 Download this app and have a healthy life.
 BMI Calculator
