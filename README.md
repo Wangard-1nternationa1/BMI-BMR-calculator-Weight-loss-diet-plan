@@ -15,10 +15,17 @@ Use our BMI & BMR Calculator: Weight Loss Diet Plan to measure your BMR by addin
 know of your daily calorie needs and use the customized diet plan in the app based on the information you provide
 
 Exclusive Features:
+
 • BMI Calculation
+
 • BMR Calculation
+
 • Daily Diet plan for weight loss
+
 • History of steps calculation for making a weekly/monthly record
+
 • Number of calories required on daily basis
+
 • Premier version available free of cost, just download and use
+
 • Colorful and easy to understand UI
